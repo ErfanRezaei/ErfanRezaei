@@ -94,17 +94,17 @@ I thrive in collaborative environments and am passionate about contributing to t
 
 * **Brain Tumor Detection using MRI Scans**
     * Description: Implemented a Vision Transformer (ViT) architecture to classify brain MRI scans, distinguishing between tumorous and non-tumorous images. The pipeline included various image processing techniques for data pre-processing and augmentation.
-    * [[Link to Repository](https://github.com/ErfanRezaei/Brain-Tumor-Classification)](#) 
+    * [Brain Tumor Detection]([#](https://github.com/ErfanRezaei/Brain-Tumor-Classification)) 
 * **Facial Emotion Recognition System**
     * Description: Implemented a Convolutional Neural Network (CNN) architecture and trained it on a large-scale public dataset to achieve high accuracy.
-    * [[Link to Repository](https://github.com/ErfanRezaei/Facial-Emotion-Recognition)](#) 
+    * [Facial Emotion Recognition System](https://github.com/ErfanRezaei/Facial-Emotion-Recognition)
 * **Real-time Object Detection**
     * Description: Developed a high-performance object detection application utilizing the pre-trained YOLOv5 model to identify and track objects in real-time.
 * **I2C Protocol Implementation**
     * Description: Implemented the I2C protocol using VHDL and simulated the design in Xilinx Vivado. 
 * **Fathi Service (WordPress Project)**
     * Description: A service-based website developed using WordPress.
-    * [https://fathiservice.ir/](#) 
+    * [Fathi Service]([#](https://fathiservice.ir/)) 
 
 ---
 
