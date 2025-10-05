@@ -11,19 +11,19 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I am a recent Computer Engineering graduate from the **University of Tabriz** with a deep passion for research and development in **Artificial Intelligence** and **Computer Vision**. I have independently developed several projects in this domain, tackling problems from medical imaging to real-time object detection.
 
 I thrive in collaborative environments and am passionate about contributing to team projects to drive innovation and progress. I am currently expanding my skills by collaborating on new team-based projects.
 
-- 🎓 **Education:** BSc in Computer Engineering, University of Tabriz.
-- 🌱 **I’m currently learning:** Advanced Deep Learning techniques and exploring team-based AI development workflows.
-- 📫 **How to reach me:** Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/erfan-rezaei-a74322247)) or via email at [your.email@example.com](mailto:erfanrezaei.ai@gmail.com).
+-  **Education:** BSc in Computer Engineering, University of Tabriz.
+-  **I’m currently learning:** Advanced Deep Learning techniques and exploring team-based AI development workflows.
+-  **How to reach me:** Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/erfan-rezaei-a74322247)) or via email at [your.email@example.com](mailto:erfanrezaei.ai@gmail.com).
 
 ---
 
-### 🛠️ Tech Stack & Skills
+###  Tech Stack & Skills
 
 #### Languages
 <p align="left">
@@ -90,7 +90,7 @@ I thrive in collaborative environments and am passionate about contributing to t
 
 ---
 
-### 🚀 My Projects
+###  My Projects
 
 * **Brain Tumor Detection using MRI Scans**
     * Description: Implemented a Vision Transformer (ViT) architecture to classify brain MRI scans, distinguishing between tumorous and non-tumorous images. The pipeline included various image processing techniques for data pre-processing and augmentation.
@@ -108,7 +108,7 @@ I thrive in collaborative environments and am passionate about contributing to t
 
 ---
 
-### 📊 My GitHub Stats
+###  My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" />
