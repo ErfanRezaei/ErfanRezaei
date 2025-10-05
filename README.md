@@ -94,7 +94,7 @@ I thrive in collaborative environments and am passionate about contributing to t
 
 * **Brain Tumor Detection using MRI Scans**
     * Description: Implemented a Vision Transformer (ViT) architecture to classify brain MRI scans, distinguishing between tumorous and non-tumorous images. The pipeline included various image processing techniques for data pre-processing and augmentation.
-    * [Brain Tumor Detection]([#](https://github.com/ErfanRezaei/Brain-Tumor-Classification)) 
+    * [Brain Tumor Detection](https://github.com/ErfanRezaei/Brain-Tumor-Classification)
 * **Facial Emotion Recognition System**
     * Description: Implemented a Convolutional Neural Network (CNN) architecture and trained it on a large-scale public dataset to achieve high accuracy.
     * [Facial Emotion Recognition System](https://github.com/ErfanRezaei/Facial-Emotion-Recognition)
