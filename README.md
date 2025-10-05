@@ -104,7 +104,7 @@ I thrive in collaborative environments and am passionate about contributing to t
     * Description: Implemented the I2C protocol using VHDL and simulated the design in Xilinx Vivado. 
 * **Fathi Service (WordPress Project)**
     * Description: A service-based website developed using WordPress.
-    * [Fathi Service]((https://fathiservice.ir/) 
+    * [Fathi Service](https://fathiservice.ir/) 
 
 ---
 
