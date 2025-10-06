@@ -19,7 +19,7 @@ I thrive in collaborative environments and am passionate about contributing to t
 
 -  **Education:** BSc in Computer Engineering, University of Tabriz.
 -  **I’m currently learning:** Advanced Deep Learning techniques and exploring team-based AI development workflows.
--  **How to reach me:** Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/erfan-rezaei-a74322247)) or via email at [your.email@example.com](mailto:erfanrezaei.ai@gmail.com).
+-  **How to reach me:** Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/erfan-rezaei-a74322247/) or via email at [erfanrezaei.ai@gmail.com](mailto:erfanrezaei.ai@gmail.com).
 
 ---
 
