@@ -99,7 +99,7 @@ I thrive in collaborative environments and am passionate about contributing to t
     * Description: Implemented a Convolutional Neural Network (CNN) architecture and trained it on a large-scale public dataset to achieve high accuracy.
     * [Facial Emotion Recognition System](https://github.com/ErfanRezaei/Facial-Emotion-Recognition)
 * **COVID 19 Detection using CNN & Transfer Learning
-    * Description: About Detecting COVID-19 from CXR images using a custom CNN and a Transfer Learning model. Classifies images into 3 categories: COVID, Normal, and Virus.
+    * Description: Detecting COVID-19 from CXR images using a custom CNN and a Transfer Learning model. Classifies images into 3 categories: COVID, Normal, and Virus.
     * [COVID 19 Detection using CNN & Transfer Learning](https://github.com/ErfanRezaei/COVID-19-Detection-using-Transfer-Learning)
 * **Real-time Object Detection**
     * Description: Developed a high-performance object detection application utilizing the pre-trained YOLOv5 model to identify and track objects in real-time.
