@@ -92,6 +92,15 @@ I thrive in collaborative environments and am passionate about contributing to t
 
 ###  My Projects
 
+* **Drug Discovery in Bioinformatics using a RandomForestRegressor Model**
+    * Description: Implemented a RandomForestRegressor to analyze molecular structures and predict their bioactivity for drug discovery process.
+    * [Drug Discovery in Bioinformatics](https://github.com/ErfanRezaei/Bioinformatics-Drug-Discovery)
+* **Brain Tumor Segmentation using U-net**
+    * Description: Implemented a U-Net based deep learning model to perform semantic segmentation of brain tumors from MRI scans.
+    * [Brain Tumor Segmentation](https://github.com/ErfanRezaei/Brain-Tumor-Segmentation-Using-U-net)
+* **Intrusion Detection System**
+    * Description: Implemented an Intrusion Detection System (IDS) using the KDD-99 dataset and a multi-layer Neural Network.
+    * [Intrusion Detection System](https://github.com/ErfanRezaei/Intrusion-Detection-System)
 * **Brain Tumor Detection using MRI Scans**
     * Description: Implemented a Vision Transformer (ViT) architecture to classify brain MRI scans, distinguishing between tumorous and non-tumorous images. The pipeline included various image processing techniques for data pre-processing and augmentation.
     * [Brain Tumor Detection](https://github.com/ErfanRezaei/Brain-Tumor-Classification)
@@ -101,8 +110,8 @@ I thrive in collaborative environments and am passionate about contributing to t
 * **COVID 19 Detection using CNN & Transfer Learning
     * Description: Detecting COVID-19 from CXR images using a custom CNN and a Transfer Learning model. Classifies images into 3 categories: COVID, Normal, and Virus.
     * [COVID 19 Detection using CNN & Transfer Learning](https://github.com/ErfanRezaei/COVID-19-Detection-using-Transfer-Learning)
-* **Real-time Object Detection**
-    * Description: Developed a high-performance object detection application utilizing the pre-trained YOLOv5 model to identify and track objects in real-time.
+* **Object Detection using YOLOv5**
+    * Description: Developed a high-performance object detection application utilizing the pre-trained YOLOv5 model to identify and track objects.
 * **I2C Protocol Implementation**
     * Description: Implemented the I2C protocol using VHDL and simulated the design in Xilinx Vivado. 
 * **Fathi Service (WordPress Project)**
