@@ -120,9 +120,3 @@ I thrive in collaborative environments and am passionate about contributing to t
 
 ---
 
-###  My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" />
-  &nbsp;
-</p>
