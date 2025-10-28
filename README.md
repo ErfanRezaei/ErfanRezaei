@@ -90,7 +90,7 @@ I thrive in collaborative environments and am passionate about contributing to t
 
 ---
 
-###  My Projects
+###  My Top Projects
 
 * **Drug Discovery in Bioinformatics using a RandomForestRegressor Model**
     * Description: Implemented a RandomForestRegressor to analyze molecular structures and predict their bioactivity for drug discovery process.
